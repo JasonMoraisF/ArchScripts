@@ -2,7 +2,6 @@
 
 # Initial packages downloads
 
-sudo pacman -S git
 sudo pacman -S git go
 
 #Obtain the home directory from user
@@ -19,6 +18,10 @@ makepkg -si
 
 #Back to home
 cd "$home_dir"
+
+#generating a package database from yay
+
+yay -Y --gendb
 
 
 #gnome-terminal-install
