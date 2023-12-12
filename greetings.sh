@@ -29,8 +29,7 @@ yay -S gnome-terminal
 
 echo "Now you should open the gnome-terminal and execute the greetingsPart2.sh"
 
-# Permission to execute
-chmod +x greetings.sh
+
 
 
 

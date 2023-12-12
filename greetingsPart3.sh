@@ -15,7 +15,6 @@ cd installs
 echo "Just change the theme in the terminal preferences :)"
 
 
-#permission to execute
-chmod +x greetingsPart3.sh
+
 
 

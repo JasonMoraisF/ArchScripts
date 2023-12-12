@@ -34,8 +34,6 @@ yay -S ntfs-3g
 
 sudo systemctl start bluetooth.service --now
 
-#permission to execute
-chmod +x greetinsPart4.sh
 
 
 

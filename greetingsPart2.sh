@@ -8,5 +8,4 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 echo "Now you should reboot the system"
 
-# Permission to execute
-chmod +x greetingsPart2.sh
+
